@@ -1,8 +1,8 @@
-// Package facade for CLI Application
+// Package gofacade for CLI Application
 //
 // These codes are licensed under CC0.
 // http://creativecommons.org/publicdomain/zero/1.0/
-package facade
+package gofacade
 
 import (
 	"io"
