@@ -1,4 +1,5 @@
-package: github.com/spiegel-im-spiegel/gofacade
+package: .
 import:
 - package: github.com/mitchellh/cli
-- package: golang.org/x/crypto/ssh/terminal
+- package: github.com/bgentry/speakeasy
+- package: github.com/mattn/go-isatty
