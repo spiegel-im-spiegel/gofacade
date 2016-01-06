@@ -1,5 +1,3 @@
 package: .
 import:
 - package: github.com/mitchellh/cli
-- package: github.com/bgentry/speakeasy
-- package: github.com/mattn/go-isatty
