@@ -10,10 +10,10 @@ import (
 	"github.com/mitchellh/cli"
 )
 
-// Exit Code
+// Exit Status
 const (
-	ExitCodeOK    int = 0
-	ExitCodeError int = iota
+	ExitSuccess = iota
+	ExitFailure
 )
 
 //Context inheritance cli.BasicUi
